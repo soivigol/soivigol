@@ -36,8 +36,7 @@ I'm a WordPress Developer specialized in creating custom solutions that help bus
 
 ## 🎤 Community Involvement
 
-- WordCamp Speaker
-- WordPress Meetup Organizer
+- WordCamp Speaker¡
 - Workshop Facilitator
 - Organizer at WordCamp Galicia Online 2021 and WordCamp Pontevedra 2022
 
